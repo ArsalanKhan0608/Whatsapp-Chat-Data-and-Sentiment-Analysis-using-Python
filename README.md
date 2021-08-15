@@ -23,8 +23,7 @@ We will look for the:
 * Select 5 reviews with the most negative sentiment polarity score. 
 * Distribution of review sentiment polarity score.
 
-Whatsapp Data: 
-
+Whatsapp Data:  https://github.com/ArsalanKhan0608/Whatsapp-Chat-Data-and-Sentiment-Analysis-using-Python/blob/main/WhatsappChat.txt
 #DataScience
 #DataScienceBasics
 #DataScienceProjects
